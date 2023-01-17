@@ -1,0 +1,15 @@
+{
+  "name": "genfont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "font-spider demo-ttf.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "font-spider": "^1.3.5"
+  }
+}
